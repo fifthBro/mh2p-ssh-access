@@ -27,7 +27,7 @@ SSH_Access/Mod/Update/
 ---
 
 ## 3. Add it to MH2p SD ModKit
-Put the SSH_Access directory into MH2p SD ModKit Mods/ directory as per instructions https://lawpaul.github.io/MH2p_SD_ModKit_Site/
+Put the mh2p-ssh-access directory into MH2p SD ModKit Mods/ directory as per instructions https://lawpaul.github.io/MH2p_SD_ModKit_Site/
 
 ---
 
