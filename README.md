@@ -21,7 +21,7 @@ authorized_keys
 Place your `authorized_keys`  inside:
 
 ```
-SSH_Access/Mod/Update/
+mh2p-ssh-access/Mod/Update/
 ```
 
 ---
